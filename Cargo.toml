@@ -1,0 +1,26 @@
+[package]
+name = "rust-boilerplate"
+description = "🦀 A Rust boilerplate made to simplify the creation of my projects"
+authors = ["Krypton <root@krypton.ninja>"]
+version = "1.0.0"
+documentation = "https://docs.rs/spaceflake"
+categories = ["algorithms"]
+license = "MIT"
+readme = "README.md"
+include = [
+    "/Cargo.toml",
+    "/CODE_OF_CONDUCT.md",
+    "/CONTRIBUTING.md",
+    "/LICENSE.md",
+    "/README.md",
+    "/SECURITY.md",
+    "/examples/**",
+    "/src/**",
+    "/tests/**",
+]
+keywords = ["algorithm", "twitter"]
+repository = "https://github.com/kkrypt0nn/rust-boilerplate"
+edition = "2021"
+
+[dependencies]
+tangra = "1.1.1"
