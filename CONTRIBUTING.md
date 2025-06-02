@@ -26,9 +26,9 @@ important side, this includes:
 
 Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `main`.
+1. Fork the repo and create your branch from `main`
 2. Keep consistency with the current state of the codebase
-3. Format the code of the files properly.
+3. Format the code of the files properly
 4. Issue that pull request!
 
 ## License
