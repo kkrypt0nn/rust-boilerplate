@@ -6,12 +6,12 @@
 
 # Rust Boilerplate
 
-[![Docs.rs Badge](https://img.shields.io/badge/docs.rs-spaceflake-61c192.svg)](https://docs.rs/spaceflake)
-[![Crates.io Badge](https://img.shields.io/crates/v/spaceflake.svg?color=fe7d37)](https://crates.io/crates/spaceflake)
-[![CI Badge](https://github.com/kkrypt0nn/spaceflake.rs/actions/workflows/ci.yml/badge.svg)](https://github.com/kkrypt0nn/spaceflake.rs/actions)
-[![Dependency Status Badge](https://deps.rs/repo/github/kkrypt0nn/spaceflake.rs/status.svg)](https://deps.rs/repo/github/kkrypt0nn/spaceflake.rs)
+[![Docs.rs Badge](https://img.shields.io/badge/docs.rs-rust-boilerplate-61c192.svg)](https://docs.rs/rust-boilerplate)
+[![Crates.io Badge](https://img.shields.io/crates/v/rust-boilerplate.svg?color=fe7d37)](https://crates.io/crates/rust-boilerplate)
+[![CI Badge](https://github.com/kkrypt0nn/rust-boilerplate/actions/workflows/ci.yaml/badge.svg)](https://github.com/kkrypt0nn/rust-boilerplate/actions)
+[![Dependency Status Badge](https://deps.rs/repo/github/kkrypt0nn/rust-boilerplate/status.svg)](https://deps.rs/repo/github/kkrypt0nn/rust-boilerplate)
 
-[![Last Commit Badge](https://img.shields.io/github/last-commit/kkrypt0nn/spaceflake.rs)](https://github.com/kkrypt0nn/spaceflake.rs/commits/main)
+[![Last Commit Badge](https://img.shields.io/github/last-commit/kkrypt0nn/rust-boilerplate)](https://github.com/kkrypt0nn/rust-boilerplate/commits/main)
 [![Conventional Commits Badge](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org/en/v1.0.0/)
 
 </div>
