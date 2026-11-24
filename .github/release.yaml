@@ -1,0 +1,42 @@
+changelog:
+  exclude:
+    labels:
+      - kind/duplicate
+      - kind/question
+      - kind/spam
+      - status/invalid
+      - status/wont-do
+      - ai-slop
+
+  categories:
+    - title: "🚀 Features"
+      labels:
+        - kind/enhancement
+
+    - title: "🐛 Bug fixes"
+      labels:
+        - kind/bug
+
+    - title: "🔒 Security"
+      labels:
+        - kind/security
+
+    - title: "♻️ Refactoring"
+      labels:
+        - kind/refactor
+
+    - title: "⚠️ Deprecations"
+      labels:
+        - kind/deprecation
+
+    - title: "📝 Documentation"
+      labels:
+        - area/docs
+
+    - title: "⚙️ CI/CD and Infrastructure"
+      labels:
+        - area/github
+
+    - title: "🔧 Other changes"
+      labels:
+        - "*"
